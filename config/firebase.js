@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB6h9PkXnZ8zDzXZ-6dMnNg5a_36jfEufA",
-  authDomain: "imagestoragern.firebaseapp.com",
-  projectId: "imagestoragern",
-  storageBucket: "imagestoragern.appspot.com",
-  messagingSenderId: "925895347774",
-  appId: "1:925895347774:web:0235f8c4b624fce5de8b6f"
+  apiKey: "AIzaSyCBWbhZTSEf_cIHRcJxSgkmKJ-XGycNQFE",
+  authDomain: "fir-storageexample-a548f.firebaseapp.com",
+  projectId: "fir-storageexample-a548f",
+  storageBucket: "fir-storageexample-a548f.appspot.com",
+  messagingSenderId: "155990805149",
+  appId: "1:155990805149:web:9ecab200f974e3cfb32274"
 };
 
 if (!firebase.apps.length) {
